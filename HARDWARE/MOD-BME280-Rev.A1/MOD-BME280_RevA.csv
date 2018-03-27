@@ -1,0 +1,10 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"P1";"UEXTM-SMD";1;"CONN_02X05";;;
+2;"U1";"BME280";1;"BME280";;;
+3;"";"LOGO_PBFREE";1;"";;;
+4;"P2";"SIP4_SMD";1;"CONN_01X04";;;
+5;"";"OLIMEX_LOGO_TB";1;"";;;
+6;",,";"Fiducial1x3_transp";3;"";;;
+7;"C1,C2";"C_0603_5MIL_DWS";2;"100nF";;;
+8;"R1,R2";"R_0603_5MIL_DWS";2;"4.7K";;;
+9;"SJ1";"SJ_2_SMALL_12_TIED";1;"SJ2W_Closed(1-2)";;;

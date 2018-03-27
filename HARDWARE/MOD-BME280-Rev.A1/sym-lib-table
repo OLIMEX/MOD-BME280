@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MOD-BME280_RevA)(type Legacy)(uri ${KIPRJMOD}/MOD-BME280_RevA.lib)(options "")(descr ""))
+  (lib (name MOD-BME280_RevA-rescue)(type Legacy)(uri ${KIPRJMOD}/MOD-BME280_RevA-rescue.lib)(options "")(descr ""))
+)

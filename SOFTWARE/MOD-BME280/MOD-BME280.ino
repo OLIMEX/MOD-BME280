@@ -14,7 +14,19 @@
   Written by Limor Fried & Kevin Townsend for Adafruit Industries.
   BSD license, all text above must be included in any redistribution
  ***************************************************************************/
-
+/* IMPORTANT MOD-BME280 work on 3.3V only, make sure you switch OLIMEXINO/ARDUINO to 3.3V power
+ * or you may damage your sensor
+ *  
+ * connection to OLIMEXINO-32U4 or OLIMEXINO-328 via UEXT cable - just plug the cable to UEXT connector
+ * 
+ * connection to breadboard:
+ * MOD.BME280 GND -> GND
+ * MOD.BME280 VCC -> 3.3V
+ * MOD.BME280 SDA -> D2
+ * MOD.BME280 SCL -> D3
+ * 
+ */
+ 
 #include <Wire.h>
 #include <SPI.h>
 #include "Adafruit_BME280.h"

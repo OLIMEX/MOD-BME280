@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:MOD-BME280_RevA-cache
+LIBS:MOD-BME280_RevA
 EELAYER 26 0
 EELAYER END
 $Descr User 8268 5827

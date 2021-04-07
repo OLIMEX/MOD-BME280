@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MOD-BME280_RevB-rescue)(type Legacy)(uri ${KIPRJMOD}/MOD-BME280_RevB-rescue.lib)(options "")(descr ""))
+  (lib (name OLIMEX_THERES)(type Legacy)(uri ${OLIMEXLIBPATH}/OLIMEX_THERES.lib)(options "")(descr ""))
+)
